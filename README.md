@@ -1,1 +1,2 @@
-# TON-Lend
+# EVER-Lend
+# CBDC Ready
